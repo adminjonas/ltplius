@@ -1,0 +1,206 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTINF:0 group-title="Сербия",Arena Sport 1
+http://94.250.61.10:8000/play/arenasr1
+#EXTINF:0 group-title="Сербия",Arena Sport 2
+http://94.250.61.10:8000/play/arenasr2
+#EXTINF:0 group-title="Сербия",Arena Sport 3
+http://94.250.61.10:8000/play/arenasr3
+#EXTINF:0 group-title="Сербия",Arena Sport 4
+http://94.250.61.10:8000/play/arenasr4
+#EXTINF:0 group-title="Сербия",Arena Sport 5
+http://94.250.61.10:8000/play/a06o
+#EXTINF:0 group-title="Сербия",Sport Klub 1 HD
+http://94.250.61.10:8000/play/sk1
+#EXTINF:0 group-title="Сербия",Eurosport 2 HD 
+http://94.250.61.10:8000/play/eurosport2
+#EXTINF:0 group-title="Португалия",Sport TV 1
+http://46.4.119.218:8880/play/a038
+#EXTINF:0 group-title="Португалия",Sport TV 1 HD
+http://46.4.119.218:8880/play/a02a
+#EXTINF:0 group-title="Португалия",Sport TV 2
+http://46.4.119.218:8880/play/a02p
+#EXTINF:0 group-title="Португалия",Sport TV 2 HD
+http://46.4.119.218:8880/play/a02b
+#EXTINF:0 group-title="Португалия",Sport TV 3
+http://46.4.119.218:8880/play/a02q
+#EXTINF:0 group-title="Португалия",Sport TV 3 HD
+http://46.4.119.218:8880/play/a02c
+#EXTINF:0 group-title="Португалия",Sport TV 4
+http://46.4.119.218:8880/play/a02r
+#EXTINF:0 group-title="Португалия",Sport TV 5
+http://46.4.119.218:8880/play/a06t
+#EXTINF:0 group-title="Португалия",Sport TV NBA
+http://46.4.119.218:8880/play/a048
+#EXTINF:0 group-title="Португалия",Sporting TV
+http://46.4.119.218:8880/play/a06x
+#EXTINF:0 group-title="Португалия",SPORT TV+
+http://46.4.119.218:8880/play/a06i
+#EXTINF:0 group-title="Португалия",SPORT1+
+http://46.4.119.218:8880/play/a07r
+#EXTINF:0 group-title="Португалия",Canal 11
+http://46.4.119.218:8880/play/a05y
+#EXTINF:0 group-title="Португалия",Canal 11 HD
+http://46.4.119.218:8880/play/a05
+#EXTINF:0 group-title="Португалия",SPORTDIGITAL FUSSBALL HD
+http://46.4.119.218:8880/play/a07q
+#EXTINF:0 group-title="Португалия",Eleven Sports 1
+http://46.4.119.218:8880/play/a04a
+#EXTINF:0 group-title="Португалия",Eleven Sports 2
+http://46.4.119.218:8880/play/a02i
+#EXTINF:0 group-title="Португалия",Eleven Sports 2 HD
+http://46.4.119.218:8880/play/a024
+#EXTINF:0 group-title="Португалия",Eleven Sports 3
+http://46.4.119.218:8880/play/a02n
+#EXTINF:0 group-title="Португалия",Eleven Sports 4
+http://46.4.119.218:8880/play/a04b
+#EXTINF:0 group-title="Португалия",Eleven Sports 5
+http://46.4.119.218:8880/play/a04c
+#EXTINF:0 group-title="Португалия",Eleven Sports 6
+http://46.4.119.218:8880/play/a027
+#EXTINF:0 group-title="Португалия",Eleven Sports 1 HD
+http://94.155.204.102:4000/play/a061
+#EXTINF:0 group-title="Португалия",Eleven Sports 2 HD
+http://94.155.204.102:4000/play/a04d
+#EXTINF:0 group-title="Португалия",Eleven Sports 2 HD
+http://94.155.204.102:4000/play/a0cw
+#EXTINF:0 group-title="Португалия",Eurosport 1
+http://46.4.119.218:8880/play/a03z
+#EXTINF:0 group-title="Португалия",Eurosport 1 HD
+http://46.4.119.218:8880/play/a045
+#EXTINF:0 group-title="Португалия",Eurosport 2
+http://46.4.119.218:8880/play/a02u
+
+#EXTINF:-1 group-title="Россия",Eurosport 1
+http://188.113.190.12/82/video.m3u8
+#EXTINF:-1 group-title="Россия",Eurosport 2
+http://188.113.190.12/83/video.m3u8
+#EXTINF:-1 group-title="Россия",Setanta Sports 1 HD
+https://185-106-121-101.livesports24.online/rusetantaeurasia.m3u8
+#EXTINF:-1 group-title="Россия",Setanta Sports 2 HD
+https://185-106-121-101.livesports24.online/setantaplusru.m3u8
+#EXTINF:-1 group-title="Россия",Viasat Sport HD
+http://iptv.prosto.tv:7000/ch108/video.m3u8
+#EXTINF:-1 group-title="Россия",Спортивный HD
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="Россия",Матч! HD
+http://188.113.190.12/167/video.m3u8
+#EXTINF:-1 group-title="Россия",Матч! Футбол 1
+http://188.113.190.12/175/video.m3u8
+#EXTINF:-1 group-title="Россия",Матч! Футбол 2
+http://188.113.190.12/176/video.m3u8
+#EXTINF:-1 group-title="Россия",Матч! Футбол 3
+http://188.113.190.12/177/video.m3u8
+#EXTINF:-1 group-title="Россия",Боец
+http://188.113.190.12/126/video.m3u8
+#EXTINF:-1 group-title="Россия",Матч! Страна
+http://188.113.190.12/95/video.m3u8
+#EXTINF:-1 group-title="Россия",Матч! Арена
+http://188.113.190.12/97/video.m3u8
+#EXTINF:-1 group-title="Россия",Матч! Арена HD
+http://188.113.190.12/325/video.m3u8
+#EXTINF:-1 group-title="Россия",Матч! Премьер
+http://188.113.190.12/103/video.m3u8
+#EXTINF:-1 group-title="Россия",Матч! Игра
+http://188.113.190.12/142/video.m3u8
+#EXTINF:-1 group-title="Россия",Матч! Игра HD
+http://188.113.190.12/326/video.m3u8
+#EXTINF:-1 group-title="Россия",КХЛ
+http://188.113.190.12/80/video.m3u8
+#EXTINF:-1 group-title="Россия",КХЛ HD
+http://188.113.190.12/116/video.m3u8
+#EXTINF:-1 group-title="Россия",Футбол 
+https://185-107-80-245.livesports24.online/footballrus.m3u8
+#EXTINF:-1 group-title="Россия",Футбол
+https://95-213-224-187.livesports24.online/footballrus.m3u8
+#EXTINF:-1 group-title="Россия",Qazsport
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1 group-title="Россия",Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Россия",FAST&FUN BOX HD
+http://iptv.prosto.tv:7000/ch120/video.m3u8
+#EXTINF:-1 group-title="Россия",Мотоспорт ТВ
+http://188.113.190.12/220/video.m3u8
+#EXTINF:-1 group-title="Россия",FIGHT BOX HD 
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:-1 group-title="Россия",UFC HD
+http://118.47.168.157:8080/play/a0211/index.m3u8
+#EXTINF:-1 group-title="Россия",M-1 GLOBAL
+http://edge04.beetv.kz/btv/SWM/M1/M1_720p_3500kbps.m3u8
+#EXTINF:-1 group-title="Россия",M-1 GLOBAL HD
+http://176.222.164.73/btv/SWM/M1/M1_1080p_5000kbps.m3u8
+#EXTINF:-1 group-title="Россия",M-1 GLOBAL HD
+http://188.113.190.12/305/video.m3u8
+#EXTINF:-1 group-title="Украина",Футбол 1 HD 
+https://95-213-224-187.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 group-title="Украина",Футбол 2 HD 
+https://95-213-224-187.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 group-title="Украина",Футбол 3 
+http://iptv.prosto.tv:7000/ch105/video.m3u8
+#EXTINF:-1 group-title="Украина",Футбол 3 HD
+https://95-213-224-187.livesports24.online/football3ua.m3u8
+#EXTINF:-1 group-title="Украина",Setanta Sports Ukraine HD
+https://95-213-224-183.livesports24.online/setantaukraine.m3u8
+#EXTINF:-1 group-title="Украина",Setanta Sports Ukraine HD
+http://iptv.prosto.tv:7000/ch106/video.m3u8
+#EXTINF:-1 group-title="Украина",Шахтар HD
+http://iptv.prosto.tv:7000/ch112/video.m3u8
+#EXTINF:-1 group-title="Украина",XSPORT  
+http://iptv.prosto.tv:7000/ch109/video.m3u8
+#EXTINF:-1 group-title="Украина",XSPORT HD 
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+#EXTINF:-1 group-title="Украина",Спорт 1 
+http://iptv.prosto.tv:7000/ch113/video.m3u8
+#EXTINF:-1 group-title="Украина",Sport 1 
+http://iptv.prosto.tv:7000/ch107/video.m3u8
+#EXTINF:-1 group-title="СНГ",Sport 2 
+http://iptv.prosto.tv:7000/ch115/video.m3u8
+#EXTINF:-1 group-title="СНГ",Sport 1 LT
+http://iptv.prosto.tv:7000/ch114/video.m3u8
+#EXTINF:-1 group-title="СНГ",Sport 2 LT
+http://iptv.prosto.tv:7000/ch116/video.m3u8
+#EXTINF:-1 group-title="СНГ",Беларусь 5 HD
+https://95-213-224-187.livesports24.online/belarusss5.m3u8
+#EXTINF:-1 group-title="СНГ",Qazsport
+http://92.46.127.146:8080/qazsport/index.m3u8
+#EXTINF:-1 group-title="СНГ",Turkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Разное",Eleven Sports 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 group-title="Разное",Eleven Sports 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
+#EXTINF:-1 group-title="Разное",Canal+ Sport HD
+http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Разное",NBA TV
+http://188.113.190.12/168/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Разное",Sport TV 1 HD
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Разное",Sport TV 2 HD
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Разное",Sport TV 3 HD
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Разное",Sport TV 4 HD
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Разное",Sport TV 5 HD
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Разное",Sky Sport 1
+http://stream.tvtap.live:8081/live/de-sky1.stream/chunks.m3u8
+#EXTINF:-1 group-title="Разное",BT Sport 1 HD
+http://116.202.245.40:9191/play/a03p
+#EXTINF:-1 group-title="Разное",BT Sport 2 HD
+http://116.202.245.40:9191/play/a002
+#EXTINF:-1 group-title="Разное",ESPN3
+http://209.91.213.10:8088/play/a025
+#EXTINF:-1 group-title="Разное",Fox Sports 1
+http://45.179.140.242:8000/play/a0gx
+#EXTINF:-1 group-title="Разное",Fox Sports 2
+http://45.179.140.242:8000/play/a0gd
+#EXTINF:-1 group-title="Разное",Fox Sports 3
+http://45.179.140.242:8000/play/a0ge
+#EXTINF:-1 group-title="Разное",ESPN
+http://45.179.140.242:8000/play/a0g3
+#EXTINF:-1 group-title="Разное",ESPN 2 Latin
+http://45.179.140.242:8000/play/a0g2
+#EXTINF:-1 group-title="Разное",ESPN 3
+http://45.179.140.242:8000/play/a0hk
+#EXTINF:-1 group-title="Разное",ESPN CO
+http://45.179.140.242:8000/play/a0hq
