@@ -1,206 +1,141 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-#EXTINF:0 group-title="Сербия",Arena Sport 1
-http://94.250.61.10:8000/play/arenasr1
-#EXTINF:0 group-title="Сербия",Arena Sport 2
-http://94.250.61.10:8000/play/arenasr2
-#EXTINF:0 group-title="Сербия",Arena Sport 3
-http://94.250.61.10:8000/play/arenasr3
-#EXTINF:0 group-title="Сербия",Arena Sport 4
-http://94.250.61.10:8000/play/arenasr4
-#EXTINF:0 group-title="Сербия",Arena Sport 5
-http://94.250.61.10:8000/play/a06o
-#EXTINF:0 group-title="Сербия",Sport Klub 1 HD
-http://94.250.61.10:8000/play/sk1
-#EXTINF:0 group-title="Сербия",Eurosport 2 HD 
-http://94.250.61.10:8000/play/eurosport2
-#EXTINF:0 group-title="Португалия",Sport TV 1
-http://46.4.119.218:8880/play/a038
-#EXTINF:0 group-title="Португалия",Sport TV 1 HD
-http://46.4.119.218:8880/play/a02a
-#EXTINF:0 group-title="Португалия",Sport TV 2
-http://46.4.119.218:8880/play/a02p
-#EXTINF:0 group-title="Португалия",Sport TV 2 HD
-http://46.4.119.218:8880/play/a02b
-#EXTINF:0 group-title="Португалия",Sport TV 3
-http://46.4.119.218:8880/play/a02q
-#EXTINF:0 group-title="Португалия",Sport TV 3 HD
-http://46.4.119.218:8880/play/a02c
-#EXTINF:0 group-title="Португалия",Sport TV 4
-http://46.4.119.218:8880/play/a02r
-#EXTINF:0 group-title="Португалия",Sport TV 5
-http://46.4.119.218:8880/play/a06t
-#EXTINF:0 group-title="Португалия",Sport TV NBA
-http://46.4.119.218:8880/play/a048
-#EXTINF:0 group-title="Португалия",Sporting TV
-http://46.4.119.218:8880/play/a06x
-#EXTINF:0 group-title="Португалия",SPORT TV+
-http://46.4.119.218:8880/play/a06i
-#EXTINF:0 group-title="Португалия",SPORT1+
-http://46.4.119.218:8880/play/a07r
-#EXTINF:0 group-title="Португалия",Canal 11
-http://46.4.119.218:8880/play/a05y
-#EXTINF:0 group-title="Португалия",Canal 11 HD
-http://46.4.119.218:8880/play/a05
-#EXTINF:0 group-title="Португалия",SPORTDIGITAL FUSSBALL HD
-http://46.4.119.218:8880/play/a07q
-#EXTINF:0 group-title="Португалия",Eleven Sports 1
-http://46.4.119.218:8880/play/a04a
-#EXTINF:0 group-title="Португалия",Eleven Sports 2
-http://46.4.119.218:8880/play/a02i
-#EXTINF:0 group-title="Португалия",Eleven Sports 2 HD
-http://46.4.119.218:8880/play/a024
-#EXTINF:0 group-title="Португалия",Eleven Sports 3
-http://46.4.119.218:8880/play/a02n
-#EXTINF:0 group-title="Португалия",Eleven Sports 4
-http://46.4.119.218:8880/play/a04b
-#EXTINF:0 group-title="Португалия",Eleven Sports 5
-http://46.4.119.218:8880/play/a04c
-#EXTINF:0 group-title="Португалия",Eleven Sports 6
-http://46.4.119.218:8880/play/a027
-#EXTINF:0 group-title="Португалия",Eleven Sports 1 HD
-http://94.155.204.102:4000/play/a061
-#EXTINF:0 group-title="Португалия",Eleven Sports 2 HD
-http://94.155.204.102:4000/play/a04d
-#EXTINF:0 group-title="Португалия",Eleven Sports 2 HD
-http://94.155.204.102:4000/play/a0cw
-#EXTINF:0 group-title="Португалия",Eurosport 1
-http://46.4.119.218:8880/play/a03z
-#EXTINF:0 group-title="Португалия",Eurosport 1 HD
-http://46.4.119.218:8880/play/a045
-#EXTINF:0 group-title="Португалия",Eurosport 2
-http://46.4.119.218:8880/play/a02u
 
-#EXTINF:-1 group-title="Россия",Eurosport 1
-http://188.113.190.12/82/video.m3u8
-#EXTINF:-1 group-title="Россия",Eurosport 2
-http://188.113.190.12/83/video.m3u8
-#EXTINF:-1 group-title="Россия",Setanta Sports 1 HD
-https://185-106-121-101.livesports24.online/rusetantaeurasia.m3u8
-#EXTINF:-1 group-title="Россия",Setanta Sports 2 HD
-https://185-106-121-101.livesports24.online/setantaplusru.m3u8
-#EXTINF:-1 group-title="Россия",Viasat Sport HD
-http://iptv.prosto.tv:7000/ch108/video.m3u8
-#EXTINF:-1 group-title="Россия",Спортивный HD
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Матч! HD
-http://188.113.190.12/167/video.m3u8
-#EXTINF:-1 group-title="Россия",Матч! Футбол 1
-http://188.113.190.12/175/video.m3u8
-#EXTINF:-1 group-title="Россия",Матч! Футбол 2
-http://188.113.190.12/176/video.m3u8
-#EXTINF:-1 group-title="Россия",Матч! Футбол 3
-http://188.113.190.12/177/video.m3u8
-#EXTINF:-1 group-title="Россия",Боец
-http://188.113.190.12/126/video.m3u8
-#EXTINF:-1 group-title="Россия",Матч! Страна
-http://188.113.190.12/95/video.m3u8
-#EXTINF:-1 group-title="Россия",Матч! Арена
-http://188.113.190.12/97/video.m3u8
-#EXTINF:-1 group-title="Россия",Матч! Арена HD
-http://188.113.190.12/325/video.m3u8
-#EXTINF:-1 group-title="Россия",Матч! Премьер
-http://188.113.190.12/103/video.m3u8
-#EXTINF:-1 group-title="Россия",Матч! Игра
-http://188.113.190.12/142/video.m3u8
-#EXTINF:-1 group-title="Россия",Матч! Игра HD
-http://188.113.190.12/326/video.m3u8
-#EXTINF:-1 group-title="Россия",КХЛ
-http://188.113.190.12/80/video.m3u8
-#EXTINF:-1 group-title="Россия",КХЛ HD
-http://188.113.190.12/116/video.m3u8
-#EXTINF:-1 group-title="Россия",Футбол 
-https://185-107-80-245.livesports24.online/footballrus.m3u8
-#EXTINF:-1 group-title="Россия",Футбол
-https://95-213-224-187.livesports24.online/footballrus.m3u8
-#EXTINF:-1 group-title="Россия",Qazsport
-http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:-1 group-title="Россия",Turkmenistan Sport
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="Россия",FAST&FUN BOX HD
-http://iptv.prosto.tv:7000/ch120/video.m3u8
-#EXTINF:-1 group-title="Россия",Мотоспорт ТВ
-http://188.113.190.12/220/video.m3u8
-#EXTINF:-1 group-title="Россия",FIGHT BOX HD 
-http://iptv.prosto.tv:7000/ch118/video.m3u8
-#EXTINF:-1 group-title="Россия",UFC HD
-http://118.47.168.157:8080/play/a0211/index.m3u8
-#EXTINF:-1 group-title="Россия",M-1 GLOBAL
-http://edge04.beetv.kz/btv/SWM/M1/M1_720p_3500kbps.m3u8
-#EXTINF:-1 group-title="Россия",M-1 GLOBAL HD
-http://176.222.164.73/btv/SWM/M1/M1_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Россия",M-1 GLOBAL HD
-http://188.113.190.12/305/video.m3u8
-#EXTINF:-1 group-title="Украина",Футбол 1 HD 
-https://95-213-224-187.livesports24.online/uafootballua1.m3u8
-#EXTINF:-1 group-title="Украина",Футбол 2 HD 
-https://95-213-224-187.livesports24.online/fooootball2.m3u8
-#EXTINF:-1 group-title="Украина",Футбол 3 
-http://iptv.prosto.tv:7000/ch105/video.m3u8
-#EXTINF:-1 group-title="Украина",Футбол 3 HD
-https://95-213-224-187.livesports24.online/football3ua.m3u8
-#EXTINF:-1 group-title="Украина",Setanta Sports Ukraine HD
-https://95-213-224-183.livesports24.online/setantaukraine.m3u8
-#EXTINF:-1 group-title="Украина",Setanta Sports Ukraine HD
-http://iptv.prosto.tv:7000/ch106/video.m3u8
-#EXTINF:-1 group-title="Украина",Шахтар HD
-http://iptv.prosto.tv:7000/ch112/video.m3u8
-#EXTINF:-1 group-title="Украина",XSPORT  
-http://iptv.prosto.tv:7000/ch109/video.m3u8
-#EXTINF:-1 group-title="Украина",XSPORT HD 
-http://iptv.prosto.tv:7000/ch110/video.m3u8
-#EXTINF:-1 group-title="Украина",Спорт 1 
-http://iptv.prosto.tv:7000/ch113/video.m3u8
-#EXTINF:-1 group-title="Украина",Sport 1 
-http://iptv.prosto.tv:7000/ch107/video.m3u8
-#EXTINF:-1 group-title="СНГ",Sport 2 
-http://iptv.prosto.tv:7000/ch115/video.m3u8
-#EXTINF:-1 group-title="СНГ",Sport 1 LT
-http://iptv.prosto.tv:7000/ch114/video.m3u8
-#EXTINF:-1 group-title="СНГ",Sport 2 LT
-http://iptv.prosto.tv:7000/ch116/video.m3u8
-#EXTINF:-1 group-title="СНГ",Беларусь 5 HD
-https://95-213-224-187.livesports24.online/belarusss5.m3u8
-#EXTINF:-1 group-title="СНГ",Qazsport
-http://92.46.127.146:8080/qazsport/index.m3u8
-#EXTINF:-1 group-title="СНГ",Turkmenistan Sport
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="Разное",Eleven Sports 1
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 group-title="Разное",Eleven Sports 2
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
-#EXTINF:-1 group-title="Разное",Canal+ Sport HD
-http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Разное",NBA TV
-http://188.113.190.12/168/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Разное",Sport TV 1 HD
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Разное",Sport TV 2 HD
-http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Разное",Sport TV 3 HD
-http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Разное",Sport TV 4 HD
-http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Разное",Sport TV 5 HD
-http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Разное",Sky Sport 1
-http://stream.tvtap.live:8081/live/de-sky1.stream/chunks.m3u8
-#EXTINF:-1 group-title="Разное",BT Sport 1 HD
-http://116.202.245.40:9191/play/a03p
-#EXTINF:-1 group-title="Разное",BT Sport 2 HD
-http://116.202.245.40:9191/play/a002
-#EXTINF:-1 group-title="Разное",ESPN3
-http://209.91.213.10:8088/play/a025
-#EXTINF:-1 group-title="Разное",Fox Sports 1
-http://45.179.140.242:8000/play/a0gx
-#EXTINF:-1 group-title="Разное",Fox Sports 2
-http://45.179.140.242:8000/play/a0gd
-#EXTINF:-1 group-title="Разное",Fox Sports 3
-http://45.179.140.242:8000/play/a0ge
-#EXTINF:-1 group-title="Разное",ESPN
-http://45.179.140.242:8000/play/a0g3
-#EXTINF:-1 group-title="Разное",ESPN 2 Latin
-http://45.179.140.242:8000/play/a0g2
-#EXTINF:-1 group-title="Разное",ESPN 3
-http://45.179.140.242:8000/play/a0hk
-#EXTINF:-1 group-title="Разное",ESPN CO
-http://45.179.140.242:8000/play/a0hq
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+
+#EXTINF:-1 group-title="Lietuviški" tvg-name="lrt-tv" tvg-logo="https://epg.iptvx.one/icn/lrt-tv.png",LRT Televizija
+http://127.0.0.1:6878/ace/getstream?id=8d59aef51c7637e4bf1f46ec4bb56e37888d3e68&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-name="LNK" tvg-logo="LNK.png",LNK
+http://127.0.0.1:6878/ace/getstream?id=74e7f37525aa99fd42e5e04c3f7187c59bf31c9e&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-name="LNK" tvg-logo="LNK.png",LNK
+http://e01.plius.tv:64144/n120/index.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-name="TV3 LT" tvg-logo="TV3.png",TV3
+http://127.0.0.1:6878/ace/getstream?id=9f943fbbe8bc4802a8999d048e7fb99a9e2bbe5c&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-name="BTV" tvg-logo="BTV.png",BTV
+http://127.0.0.1:6878/ace/getstream?id=ecd88ef7945c8532a3136741aa02589fa72f598f&.mp4
+#EXTINF:-1 group-title="Lietuviški" tvg-name="BTV" tvg-logo="BTV.png",BTV HD
+http://e01.plius.tv:64144/n133/index.m3u8?|User-agent=smartlabs
+#EXTINF:-1 group-title="Radijas" tvg-id="easyfm" radio="true" tvg-logo="https://fm.lt/images/stations/easyfm.png",Easy FM
+http://netradio.ziniuradijas.lt/easyfm_64.mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="EHR" radio="true" tvg-logo="http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-european-hit-radio1.gif",European Hit Radio
+http://82.135.234.195:8000/ehr.mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="extrafm" radio="true" tvg-logo="https://fm.lt/images/stations/extrafm.png",ExtraFM
+http://82.135.234.195:8000/extrafm.mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="fm99" radio="true" tvg-logo="http://guzei.com/online_radio/logo300/5520.jpg",FM99
+http://82.135.234.195:8000/fm99.mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="gerasfm" radio="true" tvg-logo="http://www.doverta.lt/wp-content/uploads/galerijos/ivaizdzio-kurimas/0009-geras-fm.jpg",Geras FM
+http://82.135.234.195:8000/gerasfm.mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="GOLD-FM" radio="true" tvg-logo="http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-gold-fm.png",Gold FM
+http://82.135.234.195:8000/goldfm.mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="gtalg" radio="true" tvg-logo="https://www.liveradio.ie/files/images/315088/resized/180x172c/gtalg_radijas.jpg",GTALG Radijas
+http://streaming.radionomy.com/GTALGRadijas?lang=en-GB%2cen%3bq%3d0.9%2cen-US%3bq%3d0.8%2clt%3bq%3d0.7
+#EXTINF:-1 group-title="Radijas" tvg-id="kelyje_kaunas radio="true" tvg-logo="https://fm.lt/images/stations/kelyje.jpg",Kelyje Kaunas
+http://82.135.234.195:8000/kelyje_kaunas.mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="Laluna" radio="true" tvg-logo="https://fm.lt/images/stations/laluna.jpg",Laluna
+http://radio.m-1.fm:80/laluna/mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="Lietus" radio="true" tvg-logo="http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-lietus.png",Lietus
+http://radio.m-1.fm:80/lietus/mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="Lietus" tvg-logo="http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-lietus.png",Lietus Live Video
+https://video.m-1.fm/lietus/smil:lietus.smil/playlist.m3u8
+#EXTINF:-1 group-title="Radijas" tvg-id="LRT-opus" radio="true" tvg-logo="https://fm.lt/images/stations/lrt-opus.jpg",LRT Opus
+http://lrt-cast.lrt.lt:8000/lrt_opus
+#EXTINF:-1 group-title="Radijas" tvg-id="LRT-radijas" tvg-logo="https://olf.lt/wp-content/uploads/2017/04/LRT_radijas.jpg",LRT Radijas Live Video
+https://lituanica-dvr.lrt.lt/lrt_radijas/hls/lrt_radijas_cam1_720p/index.m3u8
+#EXTINF:-1 group-title="Radijas" tvg-id="M-1" radio="true" tvg-logo="http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-m-1.gif",M-1
+http://radio.m-1.fm:80/m1/mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="M-1" radio="true" tvg-logo="http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-m-1.gif",M-1 Live Video
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_4656f1f2.acelive&.mp4
+#EXTINF:-1 group-title="Radijas" tvg-id="M-1-Plius" radio="true" tvg-logo="http://www.ltv.lt/_sys/storage/2016/11/15/pliusas_125x125-2016.png",M-1 Plius
+http://radio.m-1.fm:80/m1plius/mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="manofm" radio="true" tvg-logo="https://fm.lt/images/stations/manofm.png",Mano Fm
+http://stream.manofm.lt/listen
+#EXTINF:-1 group-title="Radijas" tvg-id="mazeikiuaidas" radio="true" tvg-logo="http://cdn-radiotime-logos.tunein.com/s15943g.png",Mažeikių Aidas
+http://maidas.kli.lt:8000/admin.mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="pmr" radio="true" tvg-logo="https://fm.lt/images/stations/pasaulio-muzikos-radijas-pmr.png",Pasaulio Muzikos Radijas
+http://pmr.lt/streams/pmr-1
+#EXTINF:-1 group-title="Radijas" tvg-id="Power-hit-radio" radio="true" tvg-logo="http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-power-hit-radio.png",Power Hit Radio
+http://94.101.239.3:8000/PHR.mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="Power-hit-radio" tvg-logo="http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-power-hit-radio.png",Power Hit Radio Live Video
+https://baltlive.tv3.lt/studija/smil:studija.smil/playlist.m3u8
+#EXTINF:-1 group-title="Radijas" tvg-id="pukas" radio="true" tvg-logo="https://static.radio.net/images/broadcasts/eb/50/13987/c300.png",Pūkas
+http://82.135.234.195:8000/pukas.mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="pukas2" radio="true" tvg-logo="https://fm.lt/images/stations/pukas.jpg",Pūkas 2
+http://82.135.234.195:8000/pukas2.aac
+#EXTINF:-1 group-title="Radijas" tvg-id="Pulsas" radio="true" tvg-logo="https://pulsas.lt/wp-content/uploads/2020/03/Pulsas_300px.png",Pulsas
+http://195.12.190.55:8000/stream
+#EXTINF:-1 group-title="Radijas" tvg-id="Radio-centras" radio="true" tvg-logo="http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-radiocentras.png",Radio Centras
+http://84.46.205.13:80/rc128.mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="radijogama" radio="true" tvg-logo="https://fm.lt/images/stations/radijogama.jpg",RadijoGAMA
+http://212.24.99.134:8000/live
+#EXTINF:-1 group-title="Radijas" tvg-id="raduga" radio="true" tvg-logo="https://fm.lt/images/stations/raduga.jpg",Raduga
+http://radio.m-1.fm:80/raduga/high
+#EXTINF:-1 group-title="Radijas" tvg-id="Relax-FM" radio="true" tvg-logo="http://www.radijas.fm/media/_catalog/radijas.fm-relax-fm.gif",Relax FM
+http://5.20.223.18:80/relaxfm128.mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="rockfm" radio="true" tvg-logo="https://fm.lt/images/stations/rockfm.jpg",Rock FM
+http://5.20.223.18:80/crf128.mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="rs2" radio="true" tvg-logo="https://s3.eu-central-1.amazonaws.com/rinka-lt/public/media/20897993/conversions/main.jpg",RS2
+http://77.79.33.225:8000/rs2.lt.aac
+#EXTINF:-1 group-title="Radijas" tvg-id="rusradio" radio="true" tvg-logo="https://fm.lt/images/stations/rusradio.png",RusRadio
+http://5.20.223.18/rrb128.mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="Saules_Radijas" radio="true" tvg-logo="https://www.atradau.lt/public_files/logos/0-58497100-1408610168_saules-radijas-logo.png",Saules Radijas
+http://saule-mp3.vinlita.lt:8008/stream.mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="startfm" radio="true" tvg-logo="https://fm.lt/images/stations/start-fm.jpeg",Start FM
+http://eteris.startfm.lt/startfm.mp3?_=1
+#EXTINF:-1 group-title="Radijas" tvg-id="Svetur" radio="true" tvg-logo="https://static-media.streema.com/media/cache/03/19/0319bb26537a9f4076739cf3a6ceca8e.jpg",Svetur
+http://svetur.intellmedia.lt:8282/tiesiogiai.mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="tauragesradijas" radio="true" tvg-logo="https://www.tauragesskelbimai.lt/foto/l_dovanu-kuponas-dovanu-kuponas-taurages-radijo-reklamos-paslaugoms_8bf.jpg",Tauragės Radijas
+http://stream.tauragesradijas.lt:8000/tr1
+#EXTINF:-1 group-title="Radijas" tvg-id="Upsas" radio="true" tvg-logo="https://upsas.lt/assets/web/img/radio/logo.png",Upso Radijas
+http://upsas.eu:8000/upsas_320
+#EXTINF:-1 group-title="Radijas" tvg-id="vaikuradijas" radio="true" tvg-logo="https://fm.lt/images/stations/vaiku-radijas.jpg",Vaikų Radijas
+http://88.119.151.74:8001/vaikuradijas
+#EXTINF:-1 group-title="Radijas" tvg-id="xfm" radio="true" tvg-logo="https://fm.lt/images/stations/xfm.jpg",XFM
+http://88.119.151.74:8001/xfm
+#EXTINF:-1 group-title="Radijas" tvg-id="ZIP-FM" radio="true" tvg-logo="http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-zipfm.gif",ZIP FM
+http://84.46.205.13:80/zipfm128.mp3
+#EXTINF:-1 group-title="Radijas" tvg-id="ZIP-FM" tvg-logo="http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-zipfm.gif",ZIP FM Live Video
+https://streamer.cgates.lt/as1214XX/cam.stream/playlist.m3u8
+#EXTINF:-1 group-title="Radijas" tvg-id="ziniuradijas" radio="true" tvg-logo="https://fm.lt/images/stations/ziniu_radijas.jpg",Žinių Radijas
+http://netradio.ziniur.lt/ziniur.mp3
+#EXTINF:-1 group-title="Kameros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Coat_of_arms_of_Druskininkai_%28Lithuania%29.svg/220px-Coat_of_arms_of_Druskininkai_%28Lithuania%29.svg.png",Druskininkų fontanas
+http://s1.dcdn.lt/livecam/dru11.stream/chunklist_w977256332.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="https://www.vle.lt/Portals/0/Images/Article/31539-3.jpg",Ignalina Centras
+http://ignet.lt:8888/live/test/index.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="http://www.briedis.lt/out/pictures/z1/3327_kaunas-herbas_z1.png",Kaunas Laisvės alėja
+http://s1.dcdn.lt/livecam/kn025.stream/chunklist_w219792458.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="http://www.briedis.lt/out/pictures/z1/3327_kaunas-herbas_z1.png",Kaunas Prietilčio gatvė
+http://s1.dcdn.lt/livecam/kn090.stream/chunklist_w922651996.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="http://www.briedis.lt/out/pictures/z1/3327_kaunas-herbas_z1.png",Kaunas Rotušės aikštė
+https://s1.dcdn.lt/livecam/kn039.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="http://www.briedis.lt/out/pictures/z1/3327_kaunas-herbas_z1.png",Kaunas uostas
+http://78.58.155.62:1936/live/camera.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="http://www.briedis.lt/out/pictures/z1/3329_klaipeda-herbas_z1.png",Klaipėda Jūrų muziejus 1
+https://s1.dcdn.lt/livecam/kljm1.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="http://www.briedis.lt/out/pictures/z1/3329_klaipeda-herbas_z1.png",Klaipėda Jūrų muziejus 2
+https://s1.dcdn.lt/livecam/kljm2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="http://www.briedis.lt/out/pictures/z1/3329_klaipeda-herbas_z1.png",Klaipėda Teatro aikštė
+http://89.117.128.169:80/Klaipeda/klaipeda.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="http://www.briedis.lt/out/pictures/z1/3329_klaipeda-herbas_z1.png",Klaipėda uostas
+https://s1.dcdn.lt/livecam/kl011.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="http://www.briedis.lt/out/pictures/z1/3329_klaipeda-herbas_z1.png",Klaipėda-Kaunas Kelias
+http://s1.dcdn.lt/livecam/kl026.stream/chunklist_w703729417.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="https://www.shop.visitneringa.com/images/uploader/li/lipdukas-neringos-herbas-1.jpg",Nida prieplauka
+http://89.117.128.169:80/Nida/nida.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="https://www.shop.visitneringa.com/images/uploader/li/lipdukas-neringos-herbas-1.jpg",Nida Parnidžio kopa
+https://s1.dcdn.lt/livecam/ner01.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="http://www.yrasalis.lt/assets/Palanga.png",Palanga Tiltas 1
+http://s1.dcdn.lt/livecam/pal05.stream/chunklist_w1619851560.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="http://www.yrasalis.lt/assets/Palanga.png",Palanga Tiltas 2
+http://89.117.128.169:80/Palanga/palanga.stream/playlist.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Raudone_CoA.jpg",Raudonė pilis
+http://s1.dcdn.lt/livecam/sak03.stream/chunklist_w709540836.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="https://www.vle.lt/Portals/0/Images/Article/92244-3.jpg",Šilalės vėjo jegainės
+http://s1.dcdn.lt/livecam/sll50.stream/chunklist_w1711375660.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="https://www.vle.lt/Portals/0/Images/Article/125418-1.jpg",Trakai pilis
+http://s1.dcdn.lt/livecam/tra04.stream/chunklist_w1208223986.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="http://www.briedis.lt/out/pictures/z1/3325_vilnius-herbas_z1.png",Vilnius A.Goštauto gatvė
+http://s1.dcdn.lt/livecam/vl108.stream/chunklist_w1934997858.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="http://www.briedis.lt/out/pictures/z1/3325_vilnius-herbas_z1.png",Vilnius Baltas Tiltas
+http://s1.dcdn.lt/livecam/vl132.stream/chunklist_w597290591.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="http://www.briedis.lt/out/pictures/z1/3325_vilnius-herbas_z1.png",Vilnius Katedros aikštė
+http://s1.dcdn.lt/livecam/vl147.stream/chunklist_w775934770.m3u8
+#EXTINF:-1 group-title="Kameros" tvg-logo="http://www.briedis.lt/out/pictures/z1/3325_vilnius-herbas_z1.png",Vilnius televizijos bokštas
+http://89.117.128.169:80/Tvtower/tvtower.stream/playlist.m3u8
