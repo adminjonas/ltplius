@@ -1,16 +1,7 @@
 
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:-1 group-title="Lietuviški" tvg-name="lrt-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/LRT_televizija.svg/410px-LRT_televizija.svg.png",LRT Televizija
-http://127.0.0.1:6878/ace/getstream?id=8d59aef51c7637e4bf1f46ec4bb56e37888d3e68&.mp4
-#EXTINF:-1 group-title="Lietuviški" tvg-name="lrt-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png",LRT Lituanica
-http://127.0.0.1:6878/ace/getstream?id=d59dd7367209c73e34e92ae6acef9b03e1fb7c16&.mp4
-#EXTINF:-1 group-title="Lietuviški" tvg-name="LNK" tvg-logo="LNK.png",LNK
-http://127.0.0.1:6878/ace/getstream?id=74e7f37525aa99fd42e5e04c3f7187c59bf31c9e&.mp4
-#EXTINF:-1 group-title="Lietuviški" tvg-name="TV3 LT" tvg-logo="TV3.png",TV3
-http://127.0.0.1:6878/ace/getstream?id=9f943fbbe8bc4802a8999d048e7fb99a9e2bbe5c&.mp4
-#EXTINF:-1 group-title="Lietuviški" tvg-name="BTV" tvg-logo="BTV.png",BTV
-http://127.0.0.1:6878/ace/getstream?id=ecd88ef7945c8532a3136741aa02589fa72f598f&.mp4
+
 #EXTINF:-1 group-title="Radijas" tvg-id="easyfm" radio="true" tvg-logo="https://fm.lt/images/stations/easyfm.png",Easy FM
 http://netradio.ziniuradijas.lt/easyfm_64.mp3
 #EXTINF:-1 group-title="Radijas" tvg-id="EHR" radio="true" tvg-logo="http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-european-hit-radio1.gif",European Hit Radio
