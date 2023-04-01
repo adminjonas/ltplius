@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 group-title="Radijas" tvg-id="easyfm" radio="true" tvg-logo="https://fm.lt/images/stations/easyfm.png",Easy FM
-https://www.ziniuradijas.lt/easy-fm.mp3
+http://netradio.ziniuradijas.lt/ziniur_64.mp3
 #EXTINF:-1 group-title="Radijas" tvg-id="EHR" radio="true" tvg-logo="http://www.radijas.fm/media/_catalog/www.radijas.fm-radijo-stotis-european-hit-radio1.gif",European Hit Radio
 http://82.135.234.195:8000/ehr.mp3
 #EXTINF:-1 group-title="Radijas" tvg-id="extrafm" radio="true" tvg-logo="https://fm.lt/images/stations/extrafm.png",ExtraFM
